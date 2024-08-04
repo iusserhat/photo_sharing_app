@@ -1,15 +1,15 @@
 {
   "project_info": {
-    "project_number": "698096964022",
-    "project_id": "photo-1e1f3",
-    "storage_bucket": "photo-1e1f3.appspot.com"
+    "project_number": "**********",
+    "project_id": "**********",
+    "storage_bucket": "**********"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:698096964022:android:ec3cf45e40768baa07b117",
+        "mobilesdk_app_id": "**********",
         "android_client_info": {
-          "package_name": "com.example.fotorafpayamuygulamas"
+          "package_name": "**********"
         }
       },
       "oauth_client": [],
