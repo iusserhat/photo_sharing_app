@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698096964022",
+    "project_id": "photo-1e1f3",
+    "storage_bucket": "photo-1e1f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698096964022:android:ec3cf45e40768baa07b117",
+        "android_client_info": {
+          "package_name": "com.example.fotorafpayamuygulamas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtBN9IBXxvVEBySp9XDGUobPvPvSVH6rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
